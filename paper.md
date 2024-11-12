@@ -22,11 +22,11 @@ bibliography: paper.bib
 # Summary
 
 This paper presents a computer implementation of a cellular automaton
-model demonstrating nonlinear dissipative wave behavior in excitable
+model demonstrating nonlinear dissipative wave behaviour in excitable
 media, such as cardiac tissue. The model is  implemented within a single lightweight Python
 script with minimal software  dependencies. Designed with simplicity
-and interactivity in mind, the script is suitable for use in publc
-outreach and engament events, classroom demonstrations and educational
+and interactivity in mind, the script is suitable for use in public
+outreach and engagement events, classroom demonstrations and educational
 workshops.  Through a series of predefined scenarios with default
 model parameters, users can observe 
 plane waves, spiral waves, reentry and chaotic patterns that
@@ -49,7 +49,7 @@ crowds, patterns on leaves and lichens, and biological signals such as
 nerve impulses and cardiac electrical excitation. These phenomena are
 all examples of nonlinear dissipative waves in *excitable*/*active*
 media. The properties of nonlinear excitation waves are fundamentally
-different from those of linear waves seen in nonactive media (e.g.,
+different from those of linear waves seen in non-active media (e.g.,
 water waves, sound waves, seismic waves, or electromagnetic waves in
 radio and optical domains) as summarised in Table 1. 
 
@@ -100,7 +100,7 @@ demonstrations that can be used for introducing the dynamics
 of excitable media to the general public effectively.
 
 Nonlinear waves in spatially extended excitable systems
-are best modeled with continuous partial differential equations (PDEs) of
+are best modelled with continuous partial differential equations (PDEs) of
 the reaction-diffusion type [@@Cross2009]. These advanced PDE models, as
 applied to phenomena like chemical reactions or cardiac
 electrophysiology, require hundreds of coupled rate equations that
